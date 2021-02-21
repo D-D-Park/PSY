@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Post example"
+title:  "Welcome to my blog!"
 date:   2019-10-26 10:00:40
-blurb: "A look at an example post using Bay Jekyll theme."
+blurb: "My first post with bay theme"
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
 
@@ -10,17 +10,17 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <br />
 <br />
 
-This is an example of blog post.
-Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
+고독한 미식가의 블로그에 오신 것을 환영합니다.
+Picture by [고독한 미식가](https://blog.naver.com/okinet66).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum[^1].
+제블로그에 들어와주셔서 정말 감사합니다. 저는 내돈내산으로 레스토랑이나 식당을 방문하고, 블로그에 포스팅을 하고 있습니다. 제 네이버 블로그도 많이 방문해주시고, 더불어 해당 글에도 음식점 및 맛집 블로그 내용을 많이 포스팅할테니, 놀러와주시면 감사하겠습니다[^1].
 
 <br />
 
 
 #### Table of Contents
-1. [Part 1](#part-1)
-2. [Part 2](#part-2)
+1. [맛집 철학 포스팅](https://blog.naver.com/220779111723)
+2. [DB 동하리 활동 포스팅](https://blog.naver.com/okinet66/221778251247)
     * [Part 2 Sub-part 1](#part-2-sub-part-1)
     * [Part 2 Sub-part 2](#part-2-sub-part-2)
 3. [Footnotes](#footnotes)
@@ -52,4 +52,4 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ##### FOOTNOTES
 
-[^1]: This is a note!
+[^1]: 소개글
