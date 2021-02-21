@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-date:   2019-10-26 10:00:40
+date:   2021-02-19 21:00:00
 blurb: "My first post with bay theme"
+category: "V-log"
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
 
