@@ -1,7 +1,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Taste Load
+title: Tasty Load
 description: >- # this means to ignore newlines until "baseurl:"
   Bienvenidos a mi blog!
 baseurl: # the subpath of the site
