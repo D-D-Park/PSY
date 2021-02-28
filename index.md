@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  기존 네이버 블로그  <a href="http://blog.naver.com/okinet66">website</a> 산하 블로그 입니다. 네이버 블로그와 연동해서, 다양한 맛집 포스팅을 할 예정입니다.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  저의 블로그에 들어와주셔서 다시 한번 감사드립니다.
 </p>

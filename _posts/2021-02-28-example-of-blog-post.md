@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: V-log
 title:  "Welcome to my blog!"
 date:   2021-02-19 21:00:00
 blurb: "My first post with bay theme"
